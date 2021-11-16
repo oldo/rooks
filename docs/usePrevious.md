@@ -6,7 +6,7 @@ sidebar_label: usePrevious
 
 :::warning
 
-`usePrevious` is deprecated, it will be removed in rooks v7. Please use [usePreviousImmediate](./usePreviousImmediate) instead.
+`usePrevious` is deprecated, it will be removed in rooks v7. Please use [usePreviousImmediate](./usepreviousimmediate) instead.
 
 :::
 
